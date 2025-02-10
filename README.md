@@ -5,6 +5,8 @@
 ![Vercel Deployment Status](https://img.shields.io/github/deployments/imfing/hextra-starter-template/production?logo=vercel&logoColor=white&label=vercel&labelColor=black&link=https%3A%2F%2Fhextra-starter-template.vercel.app%2F)
 
 
-This virtual exhibition celebrates the work of those who attended in Summer School 2025.
+This is a virtual exhibition celebrates the work of those who attended in Summer School 2025.
+
+URL: https://elam-fine-arts-205.github.io/website-summer-2025/
 
 The website was made using [Hugo](https://gohugo.io/), an open-source static site generator, and the [Hextra](https://imfing.github.io/hextra) theme.
