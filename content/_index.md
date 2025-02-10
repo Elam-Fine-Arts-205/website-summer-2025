@@ -1,17 +1,17 @@
 ---
-title: Test Site
+title: Exhibition 2025
 toc: false
 ---
 
-This is the landing page.
+<br/><br/>
 
-## Explore
+This is a virtual exhibition of artworks from the Summer School 2025 Creative Computing cohort at Elam School of Fine Arts, Waipapa Taumata Rau | University of Auckland.
+
+<br/>
+
+### Explore
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
+  {{< card link="artists" title="Artists" icon="user" >}}
+  {{< card link="about" title="About" icon="book-open" >}}
 {{< /cards >}}
-
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).
