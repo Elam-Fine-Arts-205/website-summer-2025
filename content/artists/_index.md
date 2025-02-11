@@ -6,7 +6,7 @@ cascade:
 ---
 
 {{< cards >}}
-  {{< card link="../flewitt_acacia/" title="Acacia Flewitt" image="/images/colour_test.jpg" subtitle="Title of Artwork" >}}
+  {{< card link=".../flewitt_acacia/" title="Acacia Flewitt" image="/images/colour_test.jpg" subtitle="Title of Artwork" >}}
   {{< card link="/artists/lee_alice/" title="Alice Lee" image="/images/colour_test.jpg" subtitle="Title of Artwork" >}}
   {{< card link="/artists/ong_alicia/" title="Alicia Ong" image="/images/colour_test.jpg" subtitle="Title of Artwork" >}}
   {{< card link="/artists/ringrose_amia/" title="Amia Ringrose" image="/images/colour_test.jpg" subtitle="Title of Artwork" >}}
