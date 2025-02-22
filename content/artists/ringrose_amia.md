@@ -3,13 +3,13 @@ title: Amia Ringrose
 toc: false
 ---
 
-### Title of the Artwork
+### Digital Folklore
 
-![](/images/colour_test.jpg "Still from Title of the Artwork, 2025")
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![](/images/amia_ringrose.png "Still from Digital Folklore, 2025")
 
 {{< cards cols="2" >}}
-  {{< card link="https://github.com/harn475" title="View Artwork" icon="link" >}}
-  {{< card link="https://github.com/harn475" title="View Code" icon="link" >}}
+  {{< card link="https://amiarr.github.io/Studio-Project-6/" title="View Artwork" icon="link" >}}
+  {{< card link="https://github.com/AmiaRR/Studio-Project-6" title="View Code" icon="link" >}}
 {{< /cards >}}
+
+My sketch addresses the theme of Digital Folklore as it captures the creativity of the user and can be used as a collaborative storage of art, which would relate well to how Digital Folklore is about connection between users and requires the input of users to be able to work. When I made the Google Drive folder, I thought about how with a platform that is both publicly accessible and collaborative, the artist has a very limited control on what art is contributed. That felt a bit strange because in the age of social media, platforms have such a high level of control on the media produced, with the ability to ban specific words, images, and phrases and you only have the ability to control content created by yourself. While I obviously don’t have the technical skill to control what's produced on my sketch, I wondered what or if I would do if I did. For example if I would prevent people from deleting others tiles, or create an individual number limit on producing tiles, or create some kind of community guidelines for the content created on tiles (especially keeping in mind that images can also be uploaded). I noticed that the *Glyphiti* website doesn’t at all seem to be concerned with the lack of control over the art piece, in fact it celebrates and encourages that anyone can do anything with the artwork stating that “I encourage you to use it in any way you see fit.” Though in the example of this artwork, there is a set amount of pixels that the user can control, which is slightly more restrictive than my sketch, so its public accessibility is less of a concern. This theme of collaboration in Digital Folklore also made me think of a collaborative art piece that I saw in the Auckland Art Gallery last year, where people could scratch images into plastic, which made me feel a little unsettled about the lack of restriction in such a public display, but also wondered if having more restriction would take away from the pieces collaborativeness. For my Studio Project I researched two artists, Olia Lialinas *My Boyfriend Came Back From the War* and Andy Deck’s *Glyphiti*, that I believed to include Digital Folklore in their artwork and noticed that their art both include boxes or tiles, so that is something I also chose to include in my code. My sketch is similar to *Glyphiti*, in the way that the user is able to create pictures on the tiles using pixels, which relates to how Digital Folklore typically includes the input of the user. While my sketch was influenced by online painting platforms that have existed for some time, by having the paintings being able to be instantly shared and viewed by others also references how quickly information can be shared in the current day, especially through social media, which makes collaboration the main focus of my artwork.

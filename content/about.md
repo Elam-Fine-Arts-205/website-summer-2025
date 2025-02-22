@@ -3,7 +3,7 @@ title: About
 type: about
 ---
 
-Creative Computing is a fully online elective course taught at Elam School of Fine Art, Waipapa Taumata Rau | University of Auckland. The course is open to students Univeristy-wide. No prior experience in coding is needed.
+Creative Computing is an online elective course taught at Elam School of Fine Art, Waipapa Taumata Rau | University of Auckland. The course is open to students Univeristy-wide. No prior experience in coding is needed.
 
 This virtual exhibition celebrates the work of those who attended in Summer School 2025.
 
