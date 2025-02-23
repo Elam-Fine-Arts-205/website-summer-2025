@@ -22,6 +22,7 @@ cascade:
   {{< card link="./cai_junhao" title="Junhao Cai" image="/images/jeff_cai.png" subtitle="Interactive Sound and Video Experience" >}}
   {{< card link="./tyler-davies_lydia" title="Lydia Tyler-Davies" image="/images/lydia_tyler-davies.png" subtitle="interQUACKtivity" >}}
   {{< card link="./snyman_melissa" title="Melissa Snyman" image="/images/melissa_snyman.png" subtitle="Non-Linear Stories" >}}
+  {{< card link="./wrightson-lyons_miro" title="Miro Wrightson-Lyons" image="/images/miro_wrightson-lyons.png" subtitle="Non-Linear Stories" >}}
   {{< card link="./zhu_selina" title="Selina Zhu" image="/images/selina_zhu.png" subtitle="Interactivity" >}}
   {{< card link="./bradwick_seth" title="Seth Bradwick" image="/images/seth_bradwick.png" subtitle="Synesthetic Composition 0" >}}
   {{< card link="./burns_sienna" title="Sienna Burns" image="/images/sienna_burns.png" subtitle="Simulated 95" >}}

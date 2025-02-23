@@ -1,0 +1,15 @@
+---
+title: Miro Wrightson-Lyons 
+toc: false
+---
+
+### Non-Linear Stories
+
+![](/images/miro_wrightson-lyons.png "Still from Non-Linear Stories, 2025")
+
+{{< cards cols="2" >}}
+  {{< card link="https://mirow-l.github.io/205-Studio-Project/" title="View Artwork" icon="link" >}}
+  {{< card link="https://github.com/MiroW-L/205-Studio-Project" title="View Code" icon="link" >}}
+{{< /cards >}}
+
+My creative work is a piece of interactive digital art and digital narrative art. It is heavily influenced by the work of Olia Lialina, as well as text based narrative driven video games like Fallout 1. I made it by using VS Code as well as the p5.js library which was super helpful with making inputs and buttons that were reactive within my piece. I have really enjoyed learning Javascript and I feel like it’s  very intuitive so I will definitely continue my own learning, and might possibly incorporate it in my future artwork. What motivated me to make this piece was trying to isolate the feeling of nothing happening and how that is so beautiful and pure. I am inspired thematically by movies like Napoleon Dynamite and musically by the occurrence of distinct sub-cultures which are made by the closed off interaction of local creatives. I think of the Dunedin Sound from the 1980s as a New Zealand example of this. And I believe that in my piece that it is meant to show the boredom that fosters this creativity to go out and create fun. At the same time I think it’s also a piece preaching that you don’t always have to be chasing after the next thing, or the thing after that. My piece has many parts in it that loop around so theoretically someone could be going through the various scenarios for a whole week and not stop. Hopefully it doesn’t come across like a criticism of scheduled life, more of a praise and a finding of consistency within a world of chaos, finding the things that mean the most to you in times of toil and trouble. My work connects to my theme of interactivity because it puts the viewer in the spot of making all the decisions and I think the most important decision they make is when they decide to stop, because you can be going around in circles, which was something I myself did a whole lot developing this piece, but ultimately this is a digital work and sometimes you just need to step away, take a breath, and remember what is truly important to you.I think something I could have worked on was making some of the parts more refined, like the PDF files I was trying to get to be opened whenever the link was clicked. I also kind of wish I could’ve added in something to do with the webcam as I think that adds another focus of interactivity. However what I did make I am super proud of. What I also thought about was how my writing was evolved by the use of technology and how, if I got much better at Javascript, could I possibly make it like some of Mark Amerika’s works, where they seem to have their purpose built within the unique interactions of every individual viewer. It’s an interesting thought, but regardless I really am glad that I’ve learned all these skills, because it only makes me want to learn more.
